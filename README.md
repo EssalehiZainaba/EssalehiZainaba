@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fhappycoding.io%2Ftutorials%2Fjava%2Fhello-world&psig=AOvVaw1S67-qMxF1JYR86Cc2E10z&ust=1609371690065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiH6rmh9O0CFQAAAAAdAAAAABAE
 
 
 
