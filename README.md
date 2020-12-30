@@ -1,5 +1,7 @@
 ![](https://happycoding.io/tutorials/java/images/hello-world-4.png)
 
+![Profile views](https://gpvc.arturio.dev/EssalehiZainaba) 
+
 
 I am a software engineering student at the National School of Applied Sciences.
 
@@ -14,4 +16,4 @@ Skills: JAVA / HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EssalehiZainaba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zainaba-essalehi-5611041b2//) 
 
 
-![Profile views](https://gpvc.arturio.dev/EssalehiZainaba) 
+
